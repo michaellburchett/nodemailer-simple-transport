@@ -1,0 +1,21 @@
+{
+  "name": "nodemailer-simple-transport",
+  "version": "1.0.0",
+  "description": "A simplified use of the nodemailer package for quick consumption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemailer",
+    "mail",
+    "mailer",
+    "transport",
+    "transporter"
+  ],
+  "author": "Michael Burchett",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.6"
+  }
+}
